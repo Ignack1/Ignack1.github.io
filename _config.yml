@@ -9,9 +9,9 @@ description: "This is a description"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Ignacio Espinola
   pic: 1
-  position: Lead Designer
+  position: CEO
   social:
     - title: twitter
       url: #
